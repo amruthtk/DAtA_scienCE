@@ -1,0 +1,7 @@
+print("String Manipulation")
+name=input("Enter Your Name:  ")
+print("Hello, " +name+ " Good After Noon. ")
+print("length:",len(name))
+print("Uppercase :",name.upper())
+print("Lowercase :",name.lower())
+print("Slice :",name[0:3])
